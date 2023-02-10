@@ -3,6 +3,7 @@ Signed phar example
 ```
 $ phar info -f Message.php.phar
 $ php test.php
+This function is signed!
 ```
 Modify Message.phar.php with any editor and try:
 ```
