@@ -2,6 +2,9 @@
 
 ```
 $ phar info -f Message.php.phar
+..
+Hash-type:          OpenSSL_SHA256
+..
 $ php test.php
 This function is signed!
 ```
